@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multas", "Multas\Multas.csproj", "{A18302AA-3DA5-4D49-861B-2A3F507A3EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18302AA-3DA5-4D49-861B-2A3F507A3EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18302AA-3DA5-4D49-861B-2A3F507A3EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18302AA-3DA5-4D49-861B-2A3F507A3EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18302AA-3DA5-4D49-861B-2A3F507A3EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0EAF95D-4B82-4E78-A989-E26B281D0BF3}
+	EndGlobalSection
+EndGlobal
